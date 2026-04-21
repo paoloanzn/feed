@@ -1,10 +1,10 @@
-### Main Topic: Economic Philosophy
+### Main Topic: Economic Actions
 
-**Main Thesis:** The Mises Institute promotes ideas focused on individual freedom and private property, opposing government control.
+**Main Thesis:** Understanding and practicing seven basic actions—Work, Read, Plan, Save, Shop, Give, and Pray—provides the mental framework necessary for personal success and stability during economic uncertainty.
 
-**Simple Summary:** This organization teaches and researches ideas from the Austrian School of economics. They believe that people should have freedom and private property, and they want to move away from government control (statism) toward a system based on private ownership.
+**Simple Summary:** The article argues that success in life and economics depends on mastering seven fundamental actions: working, reading, planning, saving, shopping, giving, and praying. These actions are mental exercises that help people make rational choices, especially when facing economic chaos. The author suggests that focusing on these actions anchors people in rational behavior, contrasting this view with mainstream economic theories.
 
-**The Bottom Line:** > The group's main goal is to promote ideas that emphasize individual freedom and private property over government control.
+**The Bottom Line:** > To achieve personal and economic success, focus on consistently applying these seven actions, as they are the foundation for building wealth and managing uncertainty.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/four-letter-economic-words*
+*Original article: https://mises.org/mises-wire/four-letter-economic-words*
