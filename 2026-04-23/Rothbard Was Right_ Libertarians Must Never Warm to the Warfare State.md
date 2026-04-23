@@ -1,10 +1,10 @@
-### Main Topic: Libertarians and War
+### Main Topic: Libertarian Foreign Policy
 
-**Main Thesis:** A policy of global warfare and empire building is fundamentally opposed to the free-market system that libertarians believe in.
+**Main Thesis:** A free-market, non-interventionist society at home is fundamentally incompatible with a global warfare state abroad.
 
-**Simple Summary:** The author argues that trying to run a global empire through warfare is completely incompatible with the free-market, non-interventionist system that many libertarians support at home.
+**Simple Summary:** The author argues that the idea of a libertarian system (free markets, low taxes) existing at home cannot coexist with a foreign policy based on constant wars, interventions, and building a global empire. The current system of warfare is incredibly expensive and requires massive government funding, which contradicts the principles of freedom and free markets. Furthermore, the methods used by governments to fight wars abroad—like coercion and surveillance—are often brought back home, making the entire system unethical and unlibertarian.
 
-**The Bottom Line:** > Libertarians must refuse to support any state action that involves warfare or building a global empire because it destroys the free-market principles they value.
+**The Bottom Line:** > True freedom at home requires a non-interventionist foreign policy, because a free society cannot exist alongside a hyperactive, aggressive global warfare state.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/rothbard-was-right-libertarians-must-never-warm-warfare-state*
+*Original article: https://mises.org/mises-wire/rothbard-was-right-libertarians-must-never-warm-warfare-state*
