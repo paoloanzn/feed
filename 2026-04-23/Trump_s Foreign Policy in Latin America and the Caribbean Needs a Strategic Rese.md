@@ -1,10 +1,10 @@
-### Main Topic: Foreign Policy
+### Main Topic: US Foreign Policy
 
-**Main Thesis:** President Trump's current foreign policy in Latin America and the Caribbean needs to be changed because it is creating new enemies.
+**Main Thesis:** To maintain influence in the Western Hemisphere, the United States must shift from using warnings to actively building partnerships with regional countries.
 
-**Simple Summary:** The article argues that the way President Trump handles foreign policy in Latin America and the Caribbean is causing problems. This approach is making new enemies in both North and South America, suggesting that a complete change in strategy is necessary.
+**Simple Summary:** The article argues that the US should stop relying on warnings to push Latin American and Caribbean nations away from Chinese influence. Instead of focusing on large aid programs, the US should create practical partnerships through sharing research, education, and technology. This is crucial because China is investing heavily in regional infrastructure and digital systems, which creates strategic risks for the US. If the US does not offer tangible benefits, regional governments will naturally seek relationships with other powers.
 
-**The Bottom Line:** > To solve the current conflicts and build better relationships, the foreign policy in the region requires a complete strategic reset.
+**The Bottom Line:** > Protecting American interests requires the US to offer meaningful, practical opportunities for regional partners, rather than just imposing restrictions.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/trumps-foreign-policy-latin-america-and-caribbean-needs-strategic-reset*
+*Original article: https://mises.org/mises-wire/trumps-foreign-policy-latin-america-and-caribbean-needs-strategic-reset*
