@@ -1,10 +1,10 @@
-### Main Topic: Meat and Policy
+### Main Topic: Public Policy & Ethics
 
-**Main Thesis:** Government support for lab-grown meat is driven by activist movements rather than objective facts about food.
+**Main Thesis:** Moral or emotional advocacy should not be allowed to dictate public funding or policy decisions without strong scientific evidence.
 
-**Simple Summary:** The movement against eating meat has influenced government policies, including funding for lab-grown meat. The author argues that these policies are not based on truth but are instead pushed by activists who are trying to change society.
+**Simple Summary:** The article argues that when moral beliefs (like anti-meat views) become official policy, they can lead to flawed public health guidelines and institutional errors. It uses the history of the food pyramid to show how moral ideas were translated into government rules. The author warns that this pattern repeats with new technologies like cultivated meat and speculative concepts like "bodyoids," where emotional appeals push for public money before scientific viability is proven.
 
-**The Bottom Line:** > Government policies about food should be based on facts, not on activist demands, to ensure fair and accurate decisions.
+**The Bottom Line:** > Do not let moral enthusiasm override scientific humility when governments decide how to spend taxpayer money on new technologies.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/next-food-pyramid-lab-grown-meat-and-new-moral-orthodoxy*
+*Original article: https://mises.org/mises-wire/next-food-pyramid-lab-grown-meat-and-new-moral-orthodoxy*
