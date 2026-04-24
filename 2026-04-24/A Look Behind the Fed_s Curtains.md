@@ -1,10 +1,10 @@
-### Main Topic: Federal Reserve Trust
+### Main Topic: Federal Reserve critique
 
-**Main Thesis:** The author observed a stark contrast between the Federal Reserve's public confidence and its evasive, contradictory answers when questioned privately, suggesting a lack of coherent principles.
+**Main Thesis:** The answers given by a Federal Reserve governor were evasive and contradictory, suggesting the institution hides its true motives.
 
-**Simple Summary:** The author met with a Fed Governor and observed that while the Fed projects honesty publicly, officials are often evasive or contradictory when asked specific questions about monetary policy, the role of gold, and the banking system. The author found that the Fed often shifts focus or uses vague answers to avoid clear accountability, leading to skepticism about the institution's guiding principles.
+**Simple Summary:** An interview with a Federal Reserve governor revealed that the official explanations for the Fed's actions were confusing and inconsistent. The author suggests that the Fed uses complex, technical language to hide what is actually happening behind the scenes.
 
-**The Bottom Line:** > The author concludes that the Federal Reserve does not operate based on a clear, transparent set of principles, and its actions often appear inconsistent when faced with scrutiny.
+**The Bottom Line:** > People should be skeptical of official explanations when dealing with the Federal Reserve, as the real reasons for its decisions are often hidden.
 
 ---
-*Original article: https://mises.org/mises-wire/look-behind-feds-curtains*
+*Original article: https://mises.org/podcasts/audio-mises-wire/look-behind-feds-curtains*
