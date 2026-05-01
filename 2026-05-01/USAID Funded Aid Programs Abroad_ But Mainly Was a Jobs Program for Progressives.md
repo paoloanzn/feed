@@ -1,10 +1,10 @@
-### Main Topic: Foreign Aid Programs
+### Main Topic: Foreign Aid Strategy
 
-**Main Thesis:** Claims that US aid prevents mass starvation are exaggerated, and these programs primarily serve political goals rather than humanitarian needs.
+**Main Thesis:** Cutting U.S. foreign aid programs, like USAID, has devastating consequences for local populations and the workers who support them, revealing that aid is primarily a political tool rather than pure charity.
 
-**Simple Summary:** The article argues that the idea that US aid stops millions from starving or getting sick is an overstatement. Instead of helping people survive, these aid programs are mainly used to achieve political goals favored by progressive groups.
+**Simple Summary:** The article argues that U.S. foreign aid, including programs run by USAID, is not simply about helping people; it is a strategic tool used by the U.S. to advance its own economic and political interests globally. This aid often involved shipping subsidized food to create market chaos, forcing poorer countries to deregulate their economies and become dependent buyers of U.S. goods. When these programs were cut, it not only harmed local food systems but also caused massive job losses for thousands of workers, many of whom struggled to find comparable employment.
 
-**The Bottom Line:** > US aid is often used for political reasons, not just to save lives, which means the stated humanitarian benefits are misleading.
+**The Bottom Line:** > International aid is fundamentally a political racket designed to serve powerful interests, and cutting these programs harms both the people they are supposed to help and the workers who execute the aid strategy.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/usaid-funded-aid-programs-abroad-mainly-was-jobs-program-progressives*
+*Original article: https://mises.org/mises-wire/usaid-funded-aid-programs-abroad-mainly-was-jobs-program-progressives*
