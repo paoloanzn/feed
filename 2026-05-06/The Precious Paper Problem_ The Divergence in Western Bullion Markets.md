@@ -1,10 +1,10 @@
-### Main Topic: Gold Market Prices
+### Main Topic: Gold Markets
 
-**Main Thesis:** Government involvement makes it difficult to determine the true, actual price of gold.
+**Main Thesis:** Western gold prices are unreliable because they are based on paper claims rather than actual physical ownership, which is causing a fundamental failure in the global system.
 
-**Simple Summary:** Gold markets are often unstable because governments heavily influence the prices. This interference creates a gap between the official prices people see and what the real market is actually doing.
+**Simple Summary:** Gold prices in Western markets (like London and New York) are based on credit claims and paper promises, not actual physical gold. This is different from Eastern markets, where trading is based on actual physical delivery of gold bars. This mismatch means Western prices no longer reflect the real value of the metal, which undermines trust and makes gold less reliable as a safe asset.
 
-**The Bottom Line:** > Because governments interfere, the prices we see are often misleading, making it hard to understand the true value of gold.
+**The Bottom Line:** > To fix this problem, Western markets must restore property rights, ensuring that the price of gold reflects the actual physical metal, not just the paper claims on it.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/precious-paper-problem-divergence-western-bullion-markets*
+*Original article: https://mises.org/mises-wire/precious-paper-problem-divergence-western-bullion-markets*
