@@ -1,10 +1,10 @@
-### Main Topic: Money Supply Swap
+### Main Topic: Mortgage-Backed Securities
 
-**Main Thesis:** A specific financial swap can help the Federal Reserve manage and stabilize a shrinking money supply.
+**Main Thesis:** The Federal Reserve uses complex swaps between mortgage-backed securities and government bonds to manage the money supply, but this action does not solve the underlying market problems.
 
-**Simple Summary:** This financial maneuver involves trading $2 trillion in private mortgages for $2 trillion in government debt. If done correctly, this swap allows the Federal Reserve to effectively control the amount of money circulating in the economy.
+**Simple Summary:** Mortgage-backed securities (MBS) are bundles of home loans that banks sell to other investors, including the Federal Reserve. The article explains how the Fed has been trying to reduce the amount of money in the system by swapping these mortgage assets for government debt (Treasuries). This process is designed to shrink the housing market, but the author argues it is just rearranging the deck chairs on a sinking ship, ignoring the deeper economic issues.
 
-**The Bottom Line:** > This mechanism is a way for the central bank to try and fix problems with the money supply by trading private and public debt.
+**The Bottom Line:** > The Fed's financial maneuvers are a superficial fix that does not address the real causes of economic instability, meaning the fundamental problems remain unsolved.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/mbs-slope-n-swap*
+*Original article: https://mises.org/power-market/mbs-slope-n-swap*
