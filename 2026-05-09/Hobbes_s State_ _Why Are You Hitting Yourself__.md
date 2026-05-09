@@ -1,10 +1,10 @@
-### Main Topic: Government and Consent
+### Main Topic: Social Contract Theory
 
-**Main Thesis:** You cannot complain about the government because you are the ones who agreed to let it exist.
+**Main Thesis:** The government's authority is legitimate only because the people have agreed to give it to them, meaning the state's actions are valid.
 
-**Simple Summary:** When people agree to form a government, they are essentially giving permission for it to exist. Therefore, if you complain about how the government acts, you are also complaining about the original agreement you made to let that government be in place.
+**Simple Summary:** Thomas Hobbes argued that people agreed to form a state (a social contract) to escape the chaos of a "state of nature," where everyone is fighting for survival. To ensure peace, people gave up their freedom to a governing body that has the power to enforce rules. Because the state was created by this agreement, its actions are considered legal and justified. This means that people cannot justly blame the government for its actions, as the government represents the people who authorized it.
 
-**The Bottom Line:** > Understanding this means that when you criticize the system, you must also consider your role in creating it, as you are part of the agreement that allows the system to operate.
+**The Bottom Line:** > The state's power comes from the consent of the people, which makes the government's actions legitimate, and therefore, the people cannot hold the government accountable for injustice.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/hobbess-state-why-are-you-hitting-yourself*
+*Original article: https://mises.org/mises-wire/hobbess-state-why-are-you-hitting-yourself*
