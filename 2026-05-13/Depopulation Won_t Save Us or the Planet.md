@@ -1,10 +1,10 @@
-### Main Topic: Economics Institute
+### Main Topic: Population and Environment
 
-**Main Thesis:** The Mises Institute promotes ideas focused on individual freedom and private property, opposing government control.
+**Main Thesis:** Simply reducing the population is not a reliable or sufficient way to solve environmental crises like climate change and biodiversity loss.
 
-**Simple Summary:** This organization teaches and researches economic ideas based on the philosophy of individual freedom and private ownership. They believe that society should move away from government control (statism) and toward a system based on private property.
+**Simple Summary:** While some argue that fewer people would lead to less environmental damage, the article argues that population decline does not automatically fix these problems. Climate change is driven by energy systems, and biodiversity loss is driven by how land is managed. Simply having fewer people does not change how we use energy or how we manage the land, meaning that environmental improvement depends more on changing our systems than on population size.
 
-**The Bottom Line:** > The group's main goal is to promote ideas that emphasize personal freedom and private ownership over government control.
+**The Bottom Line:** > Environmental challenges are caused by how societies use energy and manage land, not just by how many people there are; therefore, the focus should be on changing our systems rather than reducing the population.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/depopulation-wont-save-us-or-planet*
+*Original article: https://mises.org/mises-wire/depopulation-wont-save-us-or-planet*
