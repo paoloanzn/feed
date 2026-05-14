@@ -1,10 +1,10 @@
-### Main Topic: Economic Philosophy
+### Main Topic: Land ownership
 
-**Main Thesis:** The Mises Institute promotes ideas about individual freedom and private property, opposing government control.
+**Main Thesis:** The idea that large farms automatically absorb small ones due to competition is false; land concentration is primarily caused by government policies and special privileges, not just the free market.
 
-**Simple Summary:** The Mises Institute is an organization dedicated to teaching and researching economic ideas based on the Austrian School of thought. They believe that individual freedom and private property are most important, and they work to push back against government control (statism) and modern social trends that compromise these core ideas.
+**Simple Summary:** The article argues against the idea that private property and competition naturally lead to large farms swallowing small ones, as Karl Marx claimed. Experts show that expansion stops when management costs become too high, and local knowledge is more important than sheer size. Furthermore, real-world data shows that small family farms still hold a large share of land. The true reason large farms dominate is often because the government provides special rules, subsidies, and tax breaks that help big companies grow, making policy, not just market forces, the main driver of land concentration.
 
-**The Bottom Line:** > The group aims to promote fundamental economic principles, arguing that personal freedom and private ownership are essential and should not be sacrificed for political or social compromises.
+**The Bottom Line:** > The biggest threat to small landowners is not competition, but government policies and special privileges that favor large operators.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/marx-was-wrong-about-necessary-ruin-small-landed-property*
+*Original article: https://mises.org/mises-wire/marx-was-wrong-about-necessary-ruin-small-landed-property*
