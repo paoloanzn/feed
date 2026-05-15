@@ -1,10 +1,10 @@
-### Main Topic: Job Market Decline
+### Main Topic: US Economy
 
-**Main Thesis:** Since April 2024, the American job market has worsened, and people are still earning less money than they did two years ago.
+**Main Thesis:** Despite some job growth numbers, the overall job market is weakening, and real wages are falling, creating hardship for many Americans.
 
-**Simple Summary:** The article points out that since April 2024, fewer Americans are working, and even when you account for rising prices (inflation), the hourly wages people earn are still lower than they were in 2021.
+**Simple Summary:** The article argues that recent economic changes have led to fewer jobs and stagnant pay for many Americans. While some job numbers look okay, the real situation is worse: total employment has dropped, manufacturing jobs have fallen, and hourly wages, when adjusted for rising prices, have not increased in over five years. This situation is causing widespread pessimism among consumers.
 
-**The Bottom Line:** > The economic situation for workers has gotten worse, meaning people are struggling to earn enough money to keep up with rising costs.
+**The Bottom Line:** > The current economic weakness means that workers, especially those without assets, are facing a rising cost of living without seeing any real increase in their pay.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/job-market-has-only-gotten-worse-trumps-liberation-day*
+*Original article: https://mises.org/mises-wire/job-market-has-only-gotten-worse-trumps-liberation-day*
