@@ -1,10 +1,10 @@
-### Main Topic: Economic Philosophy
+### Main Topic: System Failure
 
-**Main Thesis:** The Mises Institute promotes ideas focused on individual freedom and private property, opposing government control.
+**Main Thesis:** Societies fail not because people are bad, but because they are trapped in systems where local, smart actions lead to globally bad results.
 
-**Simple Summary:** This organization teaches ideas from the Austrian School of economics, emphasizing individual freedom, honest history, and peace. They believe that people should have private property and oppose government control (statism).
+**Simple Summary:** Systems fail when rules are created by people who don't suffer the consequences, and when the government interferes with the market. Markets use prices and competition to organize knowledge, but government control jams this system, leading to bad outcomes. This interference creates stable but poor situations (inferior equilibria) and causes a cycle where more control is demanded to fix the problems created by the first set of controls.
 
-**The Bottom Line:** > The group aims to shift thinking away from government control and toward a system based on individual freedom and private ownership.
+**The Bottom Line:** > To fix systemic failures, we must allow markets and private actors to handle decisions, as they are the only mechanism that corrects errors and coordinates knowledge effectively.
 
 ---
-*Original article: https://mises.org/podcasts/audio-mises-wire/moloch-regulatory-state*
+*Original article: https://mises.org/mises-wire/moloch-regulatory-state*
